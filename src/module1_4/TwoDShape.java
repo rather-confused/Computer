@@ -1,4 +1,4 @@
-package Module1_4;
+package module1_4;
 
 public abstract class TwoDShape {
     private double width;
